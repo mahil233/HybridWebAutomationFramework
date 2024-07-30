@@ -1,0 +1,17 @@
+2024-07-29 15:28:09 DEBUG TestNG:82 - suiteXmlPath: "D:\e drive\AutomationProgram\opencart1\grouping.xml"
+2024-07-29 15:28:10 INFO  Utils:112 - [TestNG] Running:
+  D:\e drive\AutomationProgram\opencart1\grouping.xml
+
+2024-07-29 15:28:19 INFO  TC_001_Account_Registration_Test:20 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-29 15:28:20 INFO  TC_001_Account_Registration_Test:25 - Clicked on MyAccount Link.. 
+2024-07-29 15:28:21 INFO  TC_001_Account_Registration_Test:27 - Clicked on Register Link.. 
+2024-07-29 15:28:21 INFO  TC_001_Account_Registration_Test:29 - Providing customer details...
+2024-07-29 15:28:23 INFO  TC_001_Account_Registration_Test:42 - Validating expected message..
+2024-07-29 15:28:23 INFO  TC_001_Account_Registration_Test:57 - ***** Finished TC001_AccountRegistrationTest  ****
+2024-07-29 15:28:30 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-07-29 15:28:30 DEBUG TC002_LoginTest:18 - capturing application debug logs....
+2024-07-29 15:28:31 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-29 15:28:31 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-29 15:28:31 INFO  TC002_LoginTest:31 - Entering valid email and password..
+2024-07-29 15:28:33 INFO  TC002_LoginTest:35 - clicked on ligin button..
+2024-07-29 15:28:33 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
